@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javax.mail-1.6.2">
+    <archive path="F:/IntelliJ IDEA/Package/javax.mail-1.6.2.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: rmr.net.getIPv6Address 
+Class-Path: javax.mail-1.6.2.jar 
+
